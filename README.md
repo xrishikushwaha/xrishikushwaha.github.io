@@ -1,2 +1,2 @@
-# xrishikushwaha.github.io
-Repo for my Website.
+# Hello, Rishi Kushwaha here!
+This repo is for my Website.
